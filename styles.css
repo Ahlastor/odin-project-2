@@ -12,6 +12,19 @@ body {
     list-style-type: none;
 }
 
+.footer-txt {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    color: #E5E7EB;
+}
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+
+}
+
 .section-4 {
     margin: 100px 0px 100px 0px;
 }
